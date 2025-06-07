@@ -1,7 +1,4 @@
 import json, pandas as pd
-from faker import Faker
-from rich import print as pprint
-fake=Faker('zh-TW')
 import os, json
 from openai import AzureOpenAI
 endpoint = "https://azureaifoundrytryxxxxxxxxx.openai.azure.com/"
