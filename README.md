@@ -3,7 +3,20 @@ A Streamlit Dataframe try for children and adolescent psychiatry diagnoses predi
 
 ## 簡介:
 本程式使用美國微軟公司Microsoft Azure雲端之AI foundary空間,架設使用OpenAI ChatGPT-4o模型之雲端網站,並使用 _AskAI_ 功能,提供使用者輸入病史後輸出AI區辨結果
-使用者需使用
+使用者可使用以下指令下載:
+
+`
+git clone https://github.com/YuehMintTai/streamlitDataframeTry.git
+`
+
+或直接下戴成zip檔
+
+![image](https://github.com/user-attachments/assets/cc4631c3-ec58-495d-b3d7-941e3f288f42)
+
+
+
+
+需使用
 
 `
 python
