@@ -19,5 +19,6 @@ pip install -r requirements.txt
 
 
 3. dbJSON.json檔因病患病歷隱私而刪除,使用者宜自行建立。
-4. 
+4. 本程式尚未完成,不足之處尚請不吝指正。
+
 ### 詳情請洽 samyTai (ytai1123@gmail.com)
